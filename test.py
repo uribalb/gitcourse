@@ -1,0 +1,2 @@
+a="lfkkglfl"
+print(a)
